@@ -30,7 +30,7 @@ const Dishes = () => {
                             <i className="fas fa-star-half-alt"></i>
                         </div>
                         <span>$15.99</span>
-                        <a href="#" className="btn">add to cart</a>
+                        <a href="#menu" className="btn">View More</a>
                     </div>
 
                     <div className="box">
@@ -46,7 +46,7 @@ const Dishes = () => {
                             <i className="fas fa-star-half-alt"></i>
                         </div>
                         <span>$15.99</span>
-                        <a href="#" className="btn">add to cart</a>
+                        <a href="#menu" className="btn">View More</a>
                     </div>
 
                     <div className="box">
@@ -62,7 +62,7 @@ const Dishes = () => {
                             <i className="fas fa-star-half-alt"></i>
                         </div>
                         <span>$15.99</span>
-                        <a href="#" className="btn">add to cart</a>
+                        <a href="#menu" className="btn">View More</a>
                     </div>
 
                     <div className="box">
@@ -78,7 +78,7 @@ const Dishes = () => {
                             <i className="fas fa-star-half-alt"></i>
                         </div>
                         <span>$15.99</span>
-                        <a href="#" className="btn">add to cart</a>
+                        <a href="#menu" className="btn">View More</a>
                     </div>
 
                     <div className="box">
@@ -94,7 +94,7 @@ const Dishes = () => {
                             <i className="fas fa-star-half-alt"></i>
                         </div>
                         <span>$15.99</span>
-                        <a href="#" className="btn">add to cart</a>
+                        <a href="#menu" className="btn">View More</a>
                     </div>
 
                     <div className="box">
@@ -110,7 +110,7 @@ const Dishes = () => {
                             <i className="fas fa-star-half-alt"></i>
                         </div>
                         <span>$15.99</span>
-                        <a href="#" className="btn">add to cart</a>
+                        <a href="#menu" className="btn">View More</a>
                     </div>
                 </div>
             </section>

@@ -26,7 +26,7 @@ const Product = ({ imageUrl, name, price, description, productId }) => {
                 </div>
                 <h3>{name}</h3>
                 <p>{description}</p>
-                <Link to={`/product/${productId}`} className="btn">check it out</Link>
+                <Link to={`/product/${productId}`} className="btn">order now</Link>
                 <span className="price">${price}</span>
             </div>
         </div>

@@ -18,7 +18,7 @@ const TopSlider = () => {
                                 <span>our special dish</span>
                                 <h3>spicy noodles</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit natus dolor cumque?</p>
-                                <a href="#" className="btn">order now</a>
+                                <a href="#menu" className="btn">order now</a>
                             </div>
                             <div className="image">
                                 <img src={Image1} alt="" />
@@ -30,7 +30,7 @@ const TopSlider = () => {
                                 <span>our special dish</span>
                                 <h3>fried chicken</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit natus dolor cumque?</p>
-                                <a href="#" className="btn">order now</a>
+                                <a href="#menu" className="btn">order now</a>
                             </div>
                             <div className="image">
                                 <img src={Image2} alt="" />
@@ -42,7 +42,7 @@ const TopSlider = () => {
                                 <span>our special dish</span>
                                 <h3>hot pizza</h3>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit natus dolor cumque?</p>
-                                <a href="#" className="btn">order now</a>
+                                <a href="#menu" className="btn">order now</a>
                             </div>
                             <div className="image">
                                 <img src={Image3} alt="" />
