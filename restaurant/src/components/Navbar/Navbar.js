@@ -1,5 +1,6 @@
 import "./Navbar.css";
 import { useState } from 'react';
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
 
@@ -12,7 +13,7 @@ const Navbar = () => {
     return (
         <>
             <header>
-                <a href="#" className="logo"><i className="fas fa-utensils"></i>ClichE</a>
+                <Link to={"./"} className="logo"><i className="fas fa-utensils"></i>ClichE</Link>
 
                 <nav className={click ? "navbar active" : "navbar"}>
                     <a className="active" href="#home" onClick={handleClick}>home</a>

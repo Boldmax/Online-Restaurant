@@ -17,4 +17,8 @@ app.use('/menus', productRoutes);
 
 const PORT = process.env.PORT || 5001
 
+if(process.env.NODE_ENV === 'production'){
+    app.use(express.static('build'))
+};
+
 app.listen(PORT, () => console.log(`server is running on port ${PORT}`));

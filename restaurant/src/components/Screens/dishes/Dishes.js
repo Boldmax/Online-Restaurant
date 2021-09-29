@@ -85,7 +85,7 @@ const Dishes = () => {
                         <a href="#" className="fas fa-heart"></a>
                         <a href="#" className="fas fa-eye"></a>
                         <img src={Image5} alt="" />
-                        <h3>chocolate chip cookie</h3>
+                        <h3>chocolate cookie</h3>
                         <div className="stars">
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
