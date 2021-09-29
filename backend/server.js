@@ -15,9 +15,9 @@ app.use(express.json());
 
 app.use('/menus', productRoutes);
 
-const PORT = process.env.PORT || 5001
+const PORT = process.env.PORT || 5001;
 
-if(process.env.NODE_ENV === 'production'){
+if (process.env.NODE_ENV === 'production') {
     app.use(express.static('client/build'))
 };
 
